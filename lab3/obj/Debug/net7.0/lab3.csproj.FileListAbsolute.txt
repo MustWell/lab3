@@ -1,0 +1,15 @@
+D:\Project MVS\lab3\lab3\bin\Debug\net7.0\lab3.exe
+D:\Project MVS\lab3\lab3\bin\Debug\net7.0\lab3.deps.json
+D:\Project MVS\lab3\lab3\bin\Debug\net7.0\lab3.runtimeconfig.json
+D:\Project MVS\lab3\lab3\bin\Debug\net7.0\lab3.dll
+D:\Project MVS\lab3\lab3\bin\Debug\net7.0\lab3.pdb
+D:\Project MVS\lab3\lab3\obj\Debug\net7.0\lab3.csproj.AssemblyReference.cache
+D:\Project MVS\lab3\lab3\obj\Debug\net7.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project MVS\lab3\lab3\obj\Debug\net7.0\lab3.AssemblyInfoInputs.cache
+D:\Project MVS\lab3\lab3\obj\Debug\net7.0\lab3.AssemblyInfo.cs
+D:\Project MVS\lab3\lab3\obj\Debug\net7.0\lab3.csproj.CoreCompileInputs.cache
+D:\Project MVS\lab3\lab3\obj\Debug\net7.0\lab3.dll
+D:\Project MVS\lab3\lab3\obj\Debug\net7.0\refint\lab3.dll
+D:\Project MVS\lab3\lab3\obj\Debug\net7.0\lab3.pdb
+D:\Project MVS\lab3\lab3\obj\Debug\net7.0\lab3.genruntimeconfig.cache
+D:\Project MVS\lab3\lab3\obj\Debug\net7.0\ref\lab3.dll
